@@ -1,0 +1,22 @@
+table{
+    text-align: center ;
+    margin: auto;
+    background: darksalmon;
+    color: black;
+}
+body{
+    background: url("../new/image/on.jpg") no-repeat;
+    width: auto;
+    height: auto;
+}
+.tablepar {
+    position: absolute;
+    top: 170px;
+}
+.c_1{
+    border-collapse: separate;
+    align: left;
+}
+#c_2{
+    border: 2px black;
+}
