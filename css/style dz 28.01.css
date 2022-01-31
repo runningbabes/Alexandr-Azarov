@@ -16,6 +16,7 @@ body{
 .c_1{
     border-collapse: separate;
     align: left;
+    margin-top: 150px;
 }
 #c_2{
     border: 2px black;
